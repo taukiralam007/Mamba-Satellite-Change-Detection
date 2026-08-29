@@ -1,0 +1,2 @@
+Model,OA (%),Precision_c (%),Recall_c (%),F1_c (%),IoU_c (%),Kappa x100,Parameters (M),Inference mean (s),Inference std (s)
+CNN-CD,95.52,92.49,95.92,94.17,89.69,91.09,0.290468,0.1611,0.0305
