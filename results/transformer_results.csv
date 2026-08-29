@@ -1,0 +1,2 @@
+Model,OA (%),Precision_c (%),Recall_c (%),F1_c (%),IoU_c (%),Kappa x100,Parameters (M),Best Val F1_c (%)
+Transformer-CD,93.91,88.25,98.26,92.99,86.9,87.9,0.157316,89.67
