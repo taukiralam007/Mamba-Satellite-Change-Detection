@@ -1,0 +1,2 @@
+Model,OA (%),Precision_c (%),Recall_c (%),F1_c (%),IoU_c (%),Kappa x100,Parameters (M),Best Val F1_c (%)
+Real Mamba-CD (retrained),95.86,92.46,97.14,94.74,90.61,91.72,0.155908,89.36
