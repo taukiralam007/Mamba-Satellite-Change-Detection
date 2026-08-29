@@ -1,0 +1,2 @@
+Model,OA (%),Precision_c (%),Recall_c (%),F1_c (%),IoU_c (%),Kappa x100,Inference mean (s),Inference std (s),Parameters (M)
+Real Mamba-CD,92.77,85.69,97.86,91.37,84.71,85.76,0.0093,0.0003,0.155908
