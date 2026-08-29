@@ -1,0 +1,2 @@
+Model,OA (%),Precision_c (%),Recall_c (%),F1_c (%),IoU_c (%),Kappa x100,Inference mean (s),Inference std (s),Parameters (M)
+Selective SSM-CD V2,94.6,89.47,97.88,93.49,88.13,89.26,0.1006,0.0148,0.207492
